@@ -83,7 +83,7 @@ Please send feedback via GitHub Issues:
 
 ## License / Redistribution
 
-© 2026 Songseojun
+© 2026 wow19388
 
 This is a free beta for personal use.  
 **Redistribution or selling without permission is not allowed.**
